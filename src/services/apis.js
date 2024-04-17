@@ -1,4 +1,8 @@
+// import dotenv from 'dotenv';
+
+// dotenv.config();
 const BASE_URL = process.env.REACT_APP_BASE_URL
+console.log(BASE_URL)
 // const BASE_URL="https://study-notionbackend-ss50.onrender.com/api/v1"
 
 // AUTH ENDPOINTS
